@@ -2,6 +2,8 @@
 
 This is a simple batch script for Windows that flushes the DNS resolver cache.
 
+# YOU CAN USE THE .EXE TO RUN THIS APPLICATION
+
 # CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
 
 ## Usage
