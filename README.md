@@ -1,8 +1,8 @@
-# Flush DNS Batch Script  OR RUN THE .EXE OF FLUSHDNS 
+# Flush DNS Batch Script  OR 
 
 This is a simple batch script for Windows that flushes the DNS resolver cache.
 
-# YOU CAN USE THE .EXE TO RUN THIS APPLICATION
+
 
 # CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
 
