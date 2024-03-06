@@ -1,3 +1,6 @@
+- ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+- ##   make account to FORK REPO
+
 # Flush DNS Batch Script 
 
 This is a simple batch script for Windows that flushes the DNS resolver cache.
