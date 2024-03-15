@@ -20,6 +20,10 @@ This is a simple batch script for Windows that flushes the DNS resolver cache.
 Here's a breakdown of what each line in the script does:
 
 ```bat
-@echo off             # Prevents the command prompt from displaying the commands in the script as they run
-ipconfig /flushdns    # Flushes the DNS resolver cache
-pause                 # Waits for the user to press a key before closing the command prompt window
+@echo off                        :: Disable displaying commands
+echo Flushing DNS Cache...      :: Display message indicating DNS cache flushing process starting
+echo.                           :: Output a blank line for formatting
+ipconfig /flushdns             :: Flush the DNS resolver cache
+echo.                           :: Output a blank line for formatting
+echo DNS Cache Is Cleared!!     :: Display message indicating DNS cache is cleared
+pause                           :: Pause script execution, allowing user to view output
